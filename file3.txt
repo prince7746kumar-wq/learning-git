@@ -1,2 +1,3 @@
 where will this branch will get into, main or shadow.
 checking whether a file be in both branches specially if a file can be in another branch if it already exists in some other brannch.
+adding content 
