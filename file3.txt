@@ -3,3 +3,5 @@ checking whether a file be in both branches specially if a file can be in anothe
 adding content 
 
 this file is added in main branch after merging shadow with main branch.
+
+this line is made for seeing the diff command in git.
