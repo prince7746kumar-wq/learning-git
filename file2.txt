@@ -1,2 +1,5 @@
 again adding content to check whether when adding something in a already staged file.
 checking whether this file be transferred to branch shadow from branch main.
+
+
+cheking stash in git.
